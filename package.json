@@ -84,7 +84,7 @@
     "@types/react-calendar-heatmap": "^1.6.7",
     "@types/turndown": "^5.0.5",
     "csv-parser": "^3.0.0",
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.3.0",
     "js-yaml": "^4.1.0",
     "markdown-it": "^14.1.0",
     "openai": "^4.53.2",
